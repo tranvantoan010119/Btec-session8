@@ -1,0 +1,24 @@
+/* .ul4{
+    background-color: red;
+}
+.add{
+    background-color: red;
+} */
+
+#task1,#task3-reverse{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+#task2,#task3{
+    background-color:blue;
+    width: 200px;
+    height: 200px;
+}
+#task4{
+    background-color:yellow;
+    width: 200px;
+    height: 200px;
+    font-size: 14px;
+}
